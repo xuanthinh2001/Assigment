@@ -1,0 +1,23 @@
+{
+  "name": "xuanthinh",
+  "version": "1.0.0",
+  "description": "chao",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "co khong"
+  },
+  "keywords": [
+    "khong",
+    "co"
+  ],
+  "author": "xuanthinh2001",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.0"
+  }
+}
